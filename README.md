@@ -73,8 +73,8 @@ one `"minimal", "default", "verbose"`
 A server config file looks like:
 ```json
 {
-    "server_address": <addr>,
-    "work_dir": <path>,
-    "authentication_hash": <bcrypt-hash>
+    "server_address": "<addr>",
+    "work_dir": "<path>",
+    "authentication_hash": "<bcrypt-hash>"
 }
 ```

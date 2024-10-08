@@ -1,0 +1,12 @@
+_build
+credentials
+server_config.json
+
+### IntelliJ IDEA ###
+.idea/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
